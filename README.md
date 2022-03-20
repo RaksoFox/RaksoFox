@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my profile I'm RaksoFox 👋
 
-<!--
-**RaksoFox/RaksoFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fresh developer from poland. My passion is computer science, mainly in Programming and GameDev. I really enjoy learning new technologies. Feel free to dm me.
 
-Here are some ideas to get you started:
+### Skils and Experience
+- 💻 TS / React / Vite / Telegraf / DiscordJS
+- 🎮 C# / Unity
+- 📱 Flutter / React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+- 🦀 Rust
+- 💾 C++ / Unreal Engine 5
+- 😸 NestJS
+- 🐍 Python / FastAPI
+
+### Contant Me
+[<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png' alt='telegram' height='40'>](https://t.me/RaksoFox)  
