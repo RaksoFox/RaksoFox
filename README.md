@@ -13,5 +13,5 @@ I'm fresh developer from poland. My passion is computer science, mainly in Progr
 - 😸 NestJS
 - 🐍 Python / FastAPI
 
-### Contant Me
+### Contact Me
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png' alt='telegram' height='40'>](https://t.me/RaksoFox)  
