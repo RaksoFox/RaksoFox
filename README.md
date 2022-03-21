@@ -34,7 +34,6 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 [<img alt="NestJS" width="26px" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png" />]()
 [<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]()
-[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
 ### Contact Me
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png' alt='telegram' height='26'>](https://t.me/RaksoFox) 
