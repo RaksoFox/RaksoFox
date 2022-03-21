@@ -1,6 +1,6 @@
 ## Welcome to my profile I'm RaksoFox 👋
 
-I'm fresh developer from poland. My passion is computer science, mainly in Programming and GameDev. I really enjoy learning new technologies. Feel free to dm me.
+I'm fresh developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 ### Skils and Experience
 - 💻 TS / React / Vite / Telegraf / DiscordJS
