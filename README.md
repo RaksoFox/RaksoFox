@@ -23,6 +23,7 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 
 [<img alt="Rider" align="center" src="https://img.shields.io/badge/Rider-cc2651?style=flat&logo=rider&logoColor=white" />](https://www.jetbrains.com/rider/)
 [<img alt="IntelliJ" align="center" src="https://img.shields.io/badge/-IntelliJ-0a8cad?style=flat&logo=IntelliJIdea&logoColor=white" />](https://www.jetbrains.com/idea/)
+[<img alt="WebStorm" align="center" src="https://img.shields.io/badge/-WebStorm-afbe49?style=flat&logo=WebStorm&logoColor=white" />](https://www.jetbrains.com/webstorm/)
 [<img alt="PyCharm" align="center" src="https://img.shields.io/badge/-PyCharm-36af50?style=flat&logo=PyCharm&logoColor=white" />](https://www.jetbrains.com/pycharm/)
 [<img alt="CLion" align="center" src="https://img.shields.io/badge/-CLion-219d68?style=flat&logo=CLion&logoColor=white" />](https://www.jetbrains.com/clion/)
 [<img alt="Android Studio" align="center" src="https://img.shields.io/badge/-Android Studio-8bbd54?style=flat&logo=AndroidStudio&logoColor=white" />](https://developer.android.com/studio)
