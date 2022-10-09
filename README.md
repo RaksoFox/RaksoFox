@@ -17,7 +17,6 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 - 🦀 Rust
 - 💾 C++ / Unreal Engine 5
 - 😸 NestJS
-- 🐍 Python / FastAPI
 
 #### Languages and Tools
 
