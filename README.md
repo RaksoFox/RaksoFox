@@ -9,14 +9,15 @@
 I'm fresh developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 #### Skils and Experience
-- 💻 TS / React / Telegraf / DiscordJS
+- 💻 React / Svelte
+- 🤖 Telegraf / DiscordJS
 - 🎮 C# / Unity
 - 📱 Flutter / React Native
 
 #### Learning
 - 🦀 Rust
-- 💾 C++ / Unreal Engine 5
 - 😸 NestJS
+- 💾 C++ / Unreal Engine 5
 
 #### Languages and Tools
 
@@ -39,6 +40,7 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 [<img alt=".NET" align="center" src="https://img.shields.io/badge/-.NET-512bd4?style=flat&logo=.net&logoColor=white" />](https://docs.microsoft.com/dotnet/)
 [<img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" />](https://github.com/RaksoFox)
 [<img alt="React" align="center" src="https://img.shields.io/badge/-React-5cd0ee?style=flat&logo=React&logoColor=white" />](https://reactjs.org)
+[<img alt="Svelte" align="center" src="https://img.shields.io/badge/-Svelte-a51d1d?style=flat&logo=Svelte&logoColor=white" />](https://svelte.dev)
 [<img alt="MongoDB" align="center" src="https://img.shields.io/badge/-MongoDB-47a248?style=flat&logo=MongoDB&logoColor=white" />](https://www.mongodb.com)
 [<img alt="NestJS" align="center" src="https://img.shields.io/badge/-NestJS-d5214a?style=flat&logo=NestJS&logoColor=white" />](https://nestjs.com)
 [<img alt="Node" align="center" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=Node.js&logoColor=white" />](https://nestjs.com)
