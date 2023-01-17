@@ -15,9 +15,9 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 - 📱 Flutter / React Native
 
 #### Learning
+- 💾 C++ / Unreal Engine 5
 - 🦀 Rust
 - 😸 NestJS
-- 💾 C++ / Unreal Engine 5
 
 #### Languages and Tools
 
