@@ -54,4 +54,4 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 #### Contact Me
 
 [<img alt="Telegram" align="center" src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" />](https://t.me/RaksoFox)
-[<img alt="Mail" align="center" src="https://img.shields.io/badge/Mail-ef3939?style=flat&logo=mail.ru&logoColor=white" />](mailto:RaksoFox@vivaldi.net)
+[<img alt="Mail" align="center" src="https://img.shields.io/badge/Mail-ef3939?style=flat&logo=mail.ru&logoColor=white" />](mailto:contact@rakso.dev)
