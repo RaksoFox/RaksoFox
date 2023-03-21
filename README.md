@@ -35,6 +35,7 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 [<img alt="TypeScript" align="center" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org)
 [<img alt="C#" align="center" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />](https://docs.microsoft.com/dotnet/csharp/)
 [<img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />](https://docs.microsoft.com/cpp/)
+[<img alt="C" align="center" src="https://img.shields.io/badge/-C-a8b9cc?style=flat&logo=c%logoColor=white" />](https://devdocs.io/c/)
 [<img alt="Dart" align="center" src="https://img.shields.io/badge/-Dart-0175c2?style=flat&logo=Dart&logoColor=white" />](https://dart.dev)
 [<img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-b13f0e?style=flat&logo=Rust&logoColor=white" />](https://www.rust-lang.org)
 [<img alt=".NET" align="center" src="https://img.shields.io/badge/-.NET-512bd4?style=flat&logo=.net&logoColor=white" />](https://docs.microsoft.com/dotnet/)
