@@ -38,6 +38,8 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 [<img alt="C" align="center" src="https://img.shields.io/badge/-C-a8b9cc?style=flat&logo=C&logoColor=white" />](https://devdocs.io/c/)
 [<img alt="Dart" align="center" src="https://img.shields.io/badge/-Dart-0175c2?style=flat&logo=Dart&logoColor=white" />](https://dart.dev)
 [<img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-b13f0e?style=flat&logo=Rust&logoColor=white" />](https://www.rust-lang.org)
+[<img alt="Go" align="center" src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=Go&logoColor=white" />](https://go.dev)
+[<img alt="Go" align="center" src="https://img.shields.io/badge/-Zig-0d1117?style=flat&logo=Zig&logoColor=f7a41d" />](https://ziglang.org)
 [<img alt=".NET" align="center" src="https://img.shields.io/badge/-.NET-512bd4?style=flat&logo=.net&logoColor=white" />](https://docs.microsoft.com/dotnet/)
 [<img alt="React" align="center" src="https://img.shields.io/badge/-React-5cd0ee?style=flat&logo=React&logoColor=white" />](https://reactjs.org)
 [<img alt="Svelte" align="center" src="https://img.shields.io/badge/-Svelte-a51d1d?style=flat&logo=Svelte&logoColor=white" />](https://svelte.dev)
