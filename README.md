@@ -9,16 +9,16 @@
 I'm fresh developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 #### Skils and Experience
-- 💻 React / Svelte
+- 💻 React / Preact / Svelte
 - 🤖 Telegraf / DiscordJS
 - 🎮 C# / Unity
 - 📱 Flutter / React Native
 
 #### Learning
+- 💾 Go / Backend
+- 😸 NestJS
 - 💡 C / Embeded Microcontrollers
 - 🦀 Rust
-- 😸 NestJS
-- 💾 C++ / Unreal Engine 5
 
 #### Languages and Tools
 
