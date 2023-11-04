@@ -6,21 +6,22 @@
 
 ### Welcome to my profile I'm RaksoFox 👋
 
-I'm fresh developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
+I'm young developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 #### Skils and Experience
 - 💻 React / Preact / Svelte
 - 🤖 Telegraf / DiscordJS
+- 📱 React Native↑ / Flutter↓
 - 🎮 C# / Unity
-- 📱 Flutter / React Native
 
 #### Learning
-- 💾 Go / Backend
 - 😸 NestJS
-- 💡 C / Embeded Microcontrollers
 - 🦀 Rust
+- 💡 C / C++ / Embeded Microcontrollers
+- 💾 Go / Backend
 
-#### Languages and Tools
+
+#### Languages and Tools I've used before
 
 [<img alt="Rider" align="center" src="https://img.shields.io/badge/Rider-cc2651?style=flat&logo=rider&logoColor=white" />](https://www.jetbrains.com/rider/)
 [<img alt="IntelliJ" align="center" src="https://img.shields.io/badge/-IntelliJ-0a8cad?style=flat&logo=IntelliJIdea&logoColor=white" />](https://www.jetbrains.com/idea/)
@@ -34,12 +35,12 @@ I'm fresh developer from Poland. My passion is computer science, mainly Programm
 [<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-bca916?style=flat&logo=JavaScript&logoColor=white" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img alt="TypeScript" align="center" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=TypeScript&logoColor=white" />](https://www.typescriptlang.org)
 [<img alt="C#" align="center" src="https://img.shields.io/badge/-C%23-088512?style=flat&logo=c-sharp&logoColor=white" />](https://docs.microsoft.com/dotnet/csharp/)
-[<img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />](https://docs.microsoft.com/cpp/)
+[<img alt="C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />](https://docs.microsoft.com/cpp/)
 [<img alt="C" align="center" src="https://img.shields.io/badge/-C-a8b9cc?style=flat&logo=C&logoColor=white" />](https://devdocs.io/c/)
 [<img alt="Dart" align="center" src="https://img.shields.io/badge/-Dart-0175c2?style=flat&logo=Dart&logoColor=white" />](https://dart.dev)
 [<img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-b13f0e?style=flat&logo=Rust&logoColor=white" />](https://www.rust-lang.org)
 [<img alt="Go" align="center" src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=Go&logoColor=white" />](https://go.dev)
-[<img alt="Go" align="center" src="https://img.shields.io/badge/-Zig-0d1117?style=flat&logo=Zig&logoColor=f7a41d" />](https://ziglang.org)
+[<img alt="Zig" align="center" src="https://img.shields.io/badge/-Zig-0d1117?style=flat&logo=Zig&logoColor=f7a41d" />](https://ziglang.org)
 [<img alt=".NET" align="center" src="https://img.shields.io/badge/-.NET-512bd4?style=flat&logo=.net&logoColor=white" />](https://docs.microsoft.com/dotnet/)
 [<img alt="React" align="center" src="https://img.shields.io/badge/-React-5cd0ee?style=flat&logo=React&logoColor=white" />](https://reactjs.org)
 [<img alt="Svelte" align="center" src="https://img.shields.io/badge/-Svelte-a51d1d?style=flat&logo=Svelte&logoColor=white" />](https://svelte.dev)
