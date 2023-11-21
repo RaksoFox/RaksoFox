@@ -1,12 +1,12 @@
 [<img src="https://komarev.com/ghpvc/?username=RaksoFox&color=blue">](https://github.com/RaksoFox)
 [<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=RaksoFox&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true">](https://github.com/RaksoFox)
-[<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaksoFox&theme=midnight-purple&layout=compact&hide_border=true&langs_count=25">](https://github.com/RaksoFox)
+
 [<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=RaksoFox&theme=midnight-purple&hide_border=true">](https://github.com/RaksoFox)
 [<img width="50%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=RaksoFox&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">](https://github.com/RaksoFox)
 
 ### Welcome to my profile I'm RaksoFox 👋
 
-I'm young developer from Poland. My passion is computer science, mainly Programming and GameDev. I really enjoy learning new technologies and frameworks. Feel free to dm me.
+I'm young developer from Poland. My passion is computer science, mainly Programming and Software Engineering. I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 #### Skils and Experience
 - 💻 React / Preact / Svelte
