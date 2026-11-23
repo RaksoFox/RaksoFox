@@ -15,9 +15,8 @@ I'm young developer from Poland. My passion is computer science, mainly Programm
 - 📱 React Native↑ / Kotlin↓
 
 #### Learning
-- 😸 NestJS / Backend
-- 🦀 Rust
-- 🎮 C# / Unity / Godot
+- 😸 NestJS / Python / Backend
+- 🦀 Rust / Backend
 
 #### Languages and Tools I've used before
 
