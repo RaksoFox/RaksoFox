@@ -6,15 +6,15 @@
 
 ### Welcome to my profile I'm RaksoFox 👋
 
-I'm young developer from Poland. My passion is computer science, mainly Programming and Software Engineering. I really enjoy learning new technologies and frameworks. Feel free to dm me.
+I'm young developer/engineer from Poland. My passion is computer science, mainly Programming and Software/Electronic Engineering extended by Embeded and Electronics.  I really enjoy learning new technologies and frameworks. Feel free to dm me.
 
 #### Skils and Experience
 - 💻 React / Preact / Svelte
 - 💡 C / C++ / Embeded Microcontrollers
 - 🤖 GrammY / DiscordJS
-- 📱 React Native↑ / Kotlin↓
 
 #### Learning
+- 📱 React Native↑ / Kotlin↓
 - 😸 NestJS / Python / Backend
 - 🦀 Rust / Backend
 
