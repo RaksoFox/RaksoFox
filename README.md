@@ -14,8 +14,8 @@ I'm young developer/engineer from Poland. My passion is computer science, mainly
 - 🤖 GrammY / DiscordJS
 
 #### Learning
-- 📱 React Native↑ / Kotlin↓
 - 😸 NestJS / Python / Backend
+- 📱 React Native↑ / Kotlin↓
 - 🦀 Rust / Backend
 
 #### Languages and Tools I've used before
